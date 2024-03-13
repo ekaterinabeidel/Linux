@@ -1,0 +1,12 @@
+[ec2-user@ip-172-31-33-20 ~]$ cd 150124_morning
+-bash: cd: 150124_morning: No such file or directory
+[ec2-user@ip-172-31-33-20 ~]$ cd /opt/150124_morning
+[ec2-user@ip-172-31-33-20 150124_morning]$ ls
+AnnaKanivets       beljawski         ESMIRA     InnaDegtiarova  Ramiz          StefanMartianov
+Artem_Jantschenko  Ekaterina_Beidel  grigory    natalia_pnk     RomanFedyniak  svetlana_zhuravleva
+artur_zelev        esmira            hanna_krz  natali_pnk      SergeiStrukov  vadzim
+[ec2-user@ip-172-31-33-20 150124_morning]$ cd /opt/150124_morning/E
+Ekaterina_Beidel/ ESMIRA/
+[ec2-user@ip-172-31-33-20 150124_morning]$ cd /opt/150124_morning/Ekaterina_Beidel/
+[ec2-user@ip-172-31-33-20 Ekaterina_Beidel]$ pwd
+/opt/150124_morning/Ekaterina_Beidel

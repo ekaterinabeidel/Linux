@@ -1,0 +1,15 @@
+   0 pwd
+   1 cd ..
+   2 pwd
+   3 cd /tmp
+   4 vi file.txt
+   5 df -h >> file.txt
+   6 g+w file.txt 
+   7 cmod g+w file.txt 
+   8 chmod g+w file.txt
+   9 chmod u-r file.txt
+  10 chmod o+x file.txt 
+  11 ls -la
+  12 history
+  13 hisrory >> homework_20_02_2024.txt
+  14 history >> homework_20_02_2024.txt
